@@ -8,12 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = Phonz::VERSION
   spec.authors       = ["lpmi-13"]
   spec.email         = ["leskis@gmail.com"]
-  spec.summary       = %q{this suggests academic synonyms for words in a string or text}
-  spec.description   = %q{familiarity with the Academic Word List (Coxhead, 2000) is very useful when 
-                          trying to write in a more academic style, as appropriate in university
-                          writing courses. The list is taken from numerous subject areas and genres,
-                          and is a good representation of the types of words that students should
-                          expect to encounter in their university courses.}
+  spec.summary       = %q{checks a string for vowel quality or stress exceptions}
+  spec.description   = %q{an attempt to use spelling rules to predict vowel quality and stress patterns
+                          in English words. Exceptions to the predictive rules are listed and accessible
+                          with this gem.}
   spec.homepage      = "http://www.sample.com"
   spec.license       = "MIT"
 
