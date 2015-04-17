@@ -1,6 +1,6 @@
 # Phonz
 
-TODO: Write a gem description
+this suggests academic synonyms for words in a string or text
 
 ## Installation
 
