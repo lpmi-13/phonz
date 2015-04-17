@@ -1,6 +1,6 @@
 # Phonz
 
-this suggests academic synonyms for words in a string or text
+checks a string for vowel quality or stress exceptions
 
 ## Installation
 
